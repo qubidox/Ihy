@@ -1,0 +1,24 @@
+AMPLITUDE ENVELOPE
+Attack
+Decay
+Sustain
+Release
+CUTOFF ENVELOPE
+Attack
+Decay
+Sustain
+Release
+FILTER PARAMETERS
+Cutoff
+Cutoff Range
+Resonance
+OSC VOLUMES
+Saw Volume
+Square Volume
+Triangle Volume
+Noise Volume
+Octave
+Language
+Chord Mode
+Open Preset
+Save Preset

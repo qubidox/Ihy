@@ -1,0 +1,16 @@
+ampAttack 1
+ampDecay 1
+ampSustain 100
+ampRelease 1
+filterAttack 1
+filterDecay 1
+filterSustain 100
+filterRelease 1
+cutoff 20000
+cutoffRange 1
+resonance 0
+sawVol 47
+squareVol 0
+triangleVol 0
+noiseVol 0
+octaveNumber 0
